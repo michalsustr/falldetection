@@ -1,2 +1,2 @@
 # falldetection
-fun project for jessi
+fun project for jessi to teach her Java
